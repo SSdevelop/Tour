@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+const mongoose = require('mongoose'); //require mongoose
 
 // creating schema
 const tourSchema = new mongoose.Schema({
